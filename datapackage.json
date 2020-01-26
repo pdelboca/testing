@@ -1,13 +1,23 @@
 {
+  "description": "Testing Dataset", 
+  "license": {
+    "url": "http://www.opendefinition.org/licenses/cc-by", 
+    "type": "cc-by", 
+    "title": "Creative Commons Attribution"
+  }, 
+  "title": "Testing", 
   "sources": [
     {
       "name": "Patricio Del Boca"
     }
   ], 
-  "description": "Testing Dataset", 
-  "name": "testing", 
-  "license": {
-    "type": "cc-by"
-  }, 
-  "title": "Testing"
+  "resources": [
+    {
+      "path": "http://ckan:5000/dataset/98bc0b50-6db1-41d4-b7c2-e562f1743b26/resource/d02c4455-a0c8-43a7-967e-db624fc31f40/download/mini-csv.csv", 
+      "title": "mini-csv.csv", 
+      "name": "mini-csv-csv", 
+      "format": "CSV"
+    }
+  ], 
+  "name": "testing"
 }

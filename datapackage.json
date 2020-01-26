@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "name": "Patricio Del Boca"
+    }
+  ], 
+  "description": "Testing Dataset", 
+  "name": "testing", 
+  "license": {
+    "type": "cc-by"
+  }, 
+  "title": "Testing"
+}

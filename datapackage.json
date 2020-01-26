@@ -18,6 +18,12 @@
       "title": "mini-csv.csv", 
       "name": "mini-csv-csv", 
       "format": "CSV"
+    }, 
+    {
+      "path": "http://ckan:5000/dataset/98bc0b50-6db1-41d4-b7c2-e562f1743b26/resource/723552b3-c34b-466d-a76e-b4b9eba2830a/download/mini-csv-2.csv", 
+      "title": "mini-csv 2.csv", 
+      "name": "mini-csv-2-csv", 
+      "format": "CSV"
     }
   ], 
   "name": "testing"
